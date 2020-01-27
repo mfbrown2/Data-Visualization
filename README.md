@@ -6,4 +6,4 @@
  In recent years there has been an enormous growth in data. However, with the raw data it is also essential that were are able to derive meaning from these complex datasets. Data visualization allows for a diverse audience to quickly understand the trends, relationships, and severity of information. Through my Telling Stories with Data course at Carnegie Mellon I hope to be exposed to new platforms and techniques for data visualization. 
 ## Portfolio
  Below is a portfolio of data visualizations I have created!
- [some text here](/dataviz2.md)
+ [OECD data visualization](/dataviz2.md)
