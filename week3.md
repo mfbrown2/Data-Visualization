@@ -3,7 +3,7 @@
 In week three it will be up to you to both (a) select a story told using data visualization and (b) create your own data visualization using the same data. 
 
 ## Existing Visualization 
-[Original Design](/Screen Shot 2020-02-03 at 12.32.47 AM.png)
+[Original Design](/"Screen Shot 2020-02-03 at 12.32.47 AM.png")
 I think the interactive feature of this visualization works very well. It allows the reader to obtain the unemployment rate by hovering over each state. Simply presenting the unemployment rate on each state would have made the graphic to busy.
 The color scheme is intuitive. It is not inertly obvious which of the three colors would represent a higher rate. Perhaps the use of a single color would of provided clarity. 
 After investigating the data set I found it interesting that the author chose to display the states in the three categories according to the national rate. I think that it is more informative to display a range of all of the rates. 
