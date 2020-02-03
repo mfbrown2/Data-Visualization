@@ -7,6 +7,6 @@
 ## Portfolio
  Below is a portfolio of data visualizations I have created!
  
- [OECD data visualization](/dataviz2.md)
+ [WeeK 2: OECD data visualization](/dataviz2.md)
  
- [Critique by Design](/week3.md)
+ [Week 3: Critique by Design](/week3.md)
