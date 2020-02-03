@@ -8,3 +8,4 @@
  Below is a portfolio of data visualizations I have created!
  
  [OECD data visualization](/dataviz2.md)
+ [Critique by Design](/)
