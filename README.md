@@ -10,3 +10,5 @@
  [WeeK 2: OECD data visualization](/dataviz2.md)
  
  [Week 3: Critique by Design](/week3.md)
+
+ [Final Project: Part 1](/finalpart1.md)
