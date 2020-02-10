@@ -11,5 +11,5 @@
  
  [Week 3: Critique by Design](/week3.md)
 
- [Final Project: Part 1](/finalpart1)
+ [Final Project: Part 1](/finalpart1.md)
  
