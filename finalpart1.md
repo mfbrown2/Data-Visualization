@@ -1,6 +1,6 @@
 [Back to Home](/README.md)
 
-#Final Project: Part One 
+# Final Project: Part One 
 
 ## The Story  
 Ewing's sarcoma is a type of cancer that forms in an individuals’ bone or soft tissue. According to the Bone Cancer Research Trust (BCRT), the most common symptoms are: localized pain, swelling, and sporadic bone pain with variable intensity. This cancer occurs when there is a genetic change between an individuals’ eleventh and twenty-second chromosomes. However, the cause of Ewing's sarcoma is unknown. The disease impacts about one in a million people per year in the United States.
@@ -18,6 +18,7 @@ The American Cancer Society says there are “no known lifestyle-related or envi
 
 ## The Data
 [State Cancer Registry](https://www.phaim1.health.pa.gov/EDD/WebForms/CancerCntyStMap.aspx)
+
 [Oil and Gas Locations](https://www.pasda.psu.edu/uci/DataSummary.aspx?dataset=1088)
 
 ## Method and Medium 
