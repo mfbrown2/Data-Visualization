@@ -1,7 +1,7 @@
 # Final Part II 
 
 ## Storyboard
-
+![alt text](storyboard.png)
 
 ## User Research 
 
