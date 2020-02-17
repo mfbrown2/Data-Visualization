@@ -29,9 +29,9 @@
 Findings: 
  The target audience I am hoping to reach with my story is rather broad as it is really any residents of SouthWestern Pennsylvania who have not heard about the Ewing Sarcoma inncidents. The three indiivudals I spoke to were all residents of Southwestern PA. One indivdual has lived in Pittsburgh her entire life, and the other two moved here about two years ago. None of the individuals knew anything about subject before. My interview was based on the four questions listed above. 
  To address these issues identified I will implement the following changes to my storyboards and sketches:
-   * Changing the Presentation of the data points when overlaying the cancer inncidents and the 
+   * Changing the presentation of the data points when overlaying the cancer inncidents and the gas sites to make sure it is clear. 
    * The presentation of the words and the pictures will not be as busy when it is presented in shorthand
-   * The final visulalization will have proper legends and hopefully be interactive to provide further information 
+   * The final visulalization will have proper legends and (hopefully) be interactive to provide further information 
    
 ## Revised Visualization 
 ![alt text](storyboard2.png)
