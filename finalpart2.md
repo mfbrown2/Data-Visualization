@@ -26,4 +26,11 @@
 | Were any parts confusing? |     |    
 | What changes would you make? | | 
 
+Findings: 
+ The target audience I am hoping to reach with my story is rather broad as it is really any residents of SouthWestern Pennsylvania who have not heard about the 
+b. your approach to identifying representative individuals to interview; 
+c. your interview script; 
+d. the findings from your interviews; and 
+e. changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
+
 ## Revised Visualization 
