@@ -34,3 +34,4 @@ Findings:
    * The final visulalization will have proper legends and hopefully be interactive to provide further information 
    
 ## Revised Visualization 
+![alt text](new.png)
