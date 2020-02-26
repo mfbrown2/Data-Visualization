@@ -15,3 +15,5 @@
  
  [Final Project: Part 2](/finalpart2.md)
  
+ [Final Project](/final.md)
+ 
