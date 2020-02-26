@@ -4,10 +4,15 @@
 ## Project Outline  
 
 I. Introduction of Fracking Boom in Pennsylvania 
+
 II. Focusing on Fracking in Southwestern PA
+
 III. Health Impact of Fracking
+
 IV. Ewing Sarcoma Cases 
+
 V. Current Study and What Needs to be Done 
+
 IV. Call to Action 
 
 ## Summary 
