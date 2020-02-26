@@ -1,3 +1,5 @@
+[Back Home](/readme.md)
+ 
 # Final Project 
 
 # The Idea
@@ -24,8 +26,10 @@ The American Cancer Society says there are “no known lifestyle-related or envi
 ## Project Structure
 
 ## Data Sources
-Oil and Gas sites in Pennsylvania 
-Pennsylvania State Cancer Data 
+ [Oil and Gas sites in Pennsylvania](/finalpart2.md)
+ [Pennsylvania State Cancer Data](/finalpart2.md)
+ 
+ 
 
 ## Method and Medium 
 
